@@ -264,8 +264,4 @@ npm run test         # Test suite
 npm run bench:self   # Benchmark the benchmarker
 ```
 
----
-
-**Built with [Claude Code](https://claude.ai) (Opus 4.6) — zero human-written code.**
-
 Made by [@krishnashahane](https://github.com/krishnashahane)
